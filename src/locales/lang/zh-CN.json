@@ -1,0 +1,20 @@
+{
+    "nav": {
+        "home": "首页",
+        "singleMenuItem": "单个菜单项",
+        "collapseMenu": {
+            "collapseMenu": "折叠菜单项",
+            "item1": "折叠菜单项 1",
+            "item2": "折叠菜单项 2"
+        },
+        "groupMenu": {
+            "groupMenu": "分组菜单",
+            "single": "分组单个菜单项",
+            "collapse": {
+                "collapse": "分组折叠菜单",
+                "item1": "分组折叠菜单项 1",
+                "item2": "分组折叠菜单项 2"
+            }
+        }
+    }
+}

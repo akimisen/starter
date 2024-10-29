@@ -1,0 +1,20 @@
+{
+    "nav": {
+        "home": "ホーム",
+        "singleMenuItem": "単一メニュー項目",
+        "collapseMenu": {
+            "collapseMenu": "折りたたみメニュー項目",
+            "item1": "折りたたみメニュー項目 1",
+            "item2": "折りたたみメニュー項目 2"
+        },
+        "groupMenu": {
+            "groupMenu": "グループメニュー",
+            "single": "グループ単一メニュー項目",
+            "collapse": {
+                "collapse": "グループ折りたたみメニュー",
+                "item1": "グループ折りたたみメニュー項目 1",
+                "item2": "グループ折りたたみメニュー項目 2"
+            }
+        }
+    }
+}
